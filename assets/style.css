@@ -132,6 +132,13 @@ h2 {
   color: var(--accent);
 }
 
+/* ===== App list ===== */
+.app-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
 /* ===== App card ===== */
 .app-card {
   background: var(--surface);
